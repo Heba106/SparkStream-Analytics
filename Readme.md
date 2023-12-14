@@ -1,4 +1,4 @@
-# PySpark Streaming Data Analysis
+# SparkStream Analytics
 
 ![PySpark Logo](./images/PySpark.png)
 
